@@ -1,6 +1,6 @@
 # Tutorial de compilación   
 
-Este proyecto fue desarrollado con la librería [React JS](https://github.com/facebook/create-react-app).
+Este proyecto fue desarrollado con el framework [Spring Boot](https://spring.io/projects/spring-boot).
 
 ## Pasos para probarlo
 
